@@ -1,0 +1,15 @@
+C:\Users\Sartaj khan\source\repos\BInarySearchTree\BInarySearchTree\bin\Debug\net6.0\BInarySearchTree.exe
+C:\Users\Sartaj khan\source\repos\BInarySearchTree\BInarySearchTree\bin\Debug\net6.0\BInarySearchTree.deps.json
+C:\Users\Sartaj khan\source\repos\BInarySearchTree\BInarySearchTree\bin\Debug\net6.0\BInarySearchTree.runtimeconfig.json
+C:\Users\Sartaj khan\source\repos\BInarySearchTree\BInarySearchTree\bin\Debug\net6.0\BInarySearchTree.dll
+C:\Users\Sartaj khan\source\repos\BInarySearchTree\BInarySearchTree\bin\Debug\net6.0\BInarySearchTree.pdb
+C:\Users\Sartaj khan\source\repos\BInarySearchTree\BInarySearchTree\obj\Debug\net6.0\BInarySearchTree.csproj.AssemblyReference.cache
+C:\Users\Sartaj khan\source\repos\BInarySearchTree\BInarySearchTree\obj\Debug\net6.0\BInarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sartaj khan\source\repos\BInarySearchTree\BInarySearchTree\obj\Debug\net6.0\BInarySearchTree.AssemblyInfoInputs.cache
+C:\Users\Sartaj khan\source\repos\BInarySearchTree\BInarySearchTree\obj\Debug\net6.0\BInarySearchTree.AssemblyInfo.cs
+C:\Users\Sartaj khan\source\repos\BInarySearchTree\BInarySearchTree\obj\Debug\net6.0\BInarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Sartaj khan\source\repos\BInarySearchTree\BInarySearchTree\obj\Debug\net6.0\BInarySearchTree.dll
+C:\Users\Sartaj khan\source\repos\BInarySearchTree\BInarySearchTree\obj\Debug\net6.0\refint\BInarySearchTree.dll
+C:\Users\Sartaj khan\source\repos\BInarySearchTree\BInarySearchTree\obj\Debug\net6.0\BInarySearchTree.pdb
+C:\Users\Sartaj khan\source\repos\BInarySearchTree\BInarySearchTree\obj\Debug\net6.0\BInarySearchTree.genruntimeconfig.cache
+C:\Users\Sartaj khan\source\repos\BInarySearchTree\BInarySearchTree\obj\Debug\net6.0\ref\BInarySearchTree.dll
